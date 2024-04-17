@@ -1,0 +1,20 @@
+{
+  "name": "projetobanco",
+  "version": "1.0.0",
+  "description": "esse projeto é web e vai usar mangodb, express e js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "javascript",
+    "mangodb",
+    "express"
+  ],
+  "author": "vinicius santos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
